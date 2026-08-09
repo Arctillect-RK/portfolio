@@ -22,8 +22,9 @@ Taiwan · Remote · [GitHub](https://github.com/Arctillect-RK) · [Telegram](htt
 | [arborika](https://github.com/Arctillect-RK/arborika) | [arborika.ru](https://arborika.ru/) | HTML/CSS/Tailwind/JS | Мастерская столов: каталог + заявки |
 | [bristol-test](https://github.com/Arctillect-RK/bristol-test) | [bristol-test.ru](https://bristol-test.ru/) | **PHP + ЮKassa** + TG | Платный портал тестов + токен доступа |
 | [magnit-test](https://github.com/Arctillect-RK/magnit-test) | [magnit-test.ru](https://www.magnit-test.ru/) | **PHP + ЮKassa** + TG | То же для Магнит Магнум |
-| [seo-combine](https://github.com/Arctillect-RK/seo-combine) | local | **Node + Puppeteer** | Подсказки + SERP Яндекса + Excel |
-| [promo-parser](https://github.com/Arctillect-RK/promo-parser) | local | **FastAPI + Playwright** | Промо SERP + контакты + Excel |
+
+### Коммерческие инструменты (private)
+Есть **SEO / scraping-продукты** (подсказки, SERP, промо, контакты, Excel), которые **продаются** — исходники **private**, в открытый GitHub не выкладываю.
 
 ### Флагман — Vsesteklo CRM
 Операционка стекольного бизнеса: прайс-контроль, инженерный калькулятор, заявки, парсер, модерация отзывов, роли.  
@@ -37,7 +38,7 @@ Taiwan · Remote · [GitHub](https://github.com/Arctillect-RK) · [Telegram](htt
 I ship end-to-end products: **website → calculator/configurator → CRM → payments → bots/scrapers**.  
 Commercial sites below are **still live in production**.
 
-Each repository has a **bilingual README** (RU + EN): overview, stack table (what each layer is for), and flow.
+Each public repository has a **bilingual README** (RU + EN): overview, stack table (what each layer is for), and flow.
 
 ### Projects
 
@@ -48,8 +49,9 @@ Each repository has a **bilingual README** (RU + EN): overview, stack table (wha
 | [arborika](https://github.com/Arctillect-RK/arborika) | [arborika.ru](https://arborika.ru/) | HTML/CSS/Tailwind/JS | Custom tables workshop: catalog + leads |
 | [bristol-test](https://github.com/Arctillect-RK/bristol-test) | [bristol-test.ru](https://bristol-test.ru/) | **PHP + YooKassa** + TG | Paid test answers + timed access |
 | [magnit-test](https://github.com/Arctillect-RK/magnit-test) | [magnit-test.ru](https://www.magnit-test.ru/) | **PHP + YooKassa** + TG | Same pattern for Magnit Magnum |
-| [seo-combine](https://github.com/Arctillect-RK/seo-combine) | local | **Node + Puppeteer** | Yandex suggestions + SERP + Excel |
-| [promo-parser](https://github.com/Arctillect-RK/promo-parser) | local | **FastAPI + Playwright** | Promo SERP + contacts + Excel |
+
+### Commercial tools (private)
+I also ship **SEO / scraping products** (suggestions, SERP, promo ads, contacts, Excel) that are **sold commercially** — source is **private**, not open-sourced.
 
 ### Flagship — Vsesteklo CRM
 Day-to-day ops for glass manufacturing: price control, engineering calculator, leads, parsers, review moderation, roles.  
