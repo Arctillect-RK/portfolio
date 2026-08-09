@@ -1,83 +1,62 @@
-# Portfolio — Ruslan Kovalchuk
+# Portfolio — Ruslan Kovalchuk / Портфолио
 
 **Full-Stack Developer** · B2B automation · CRM · payments · scraping  
 Taiwan · Remote · [GitHub](https://github.com/Arctillect-RK) · [Telegram](https://t.me/Arctillect)
 
-> Коммерческие сайты ниже **до сих пор в проде** (не мёртвые демки).
+---
 
-В каждом репо — README: **стек / зачем каждая часть / поток**.
+## 🇷🇺 Русский
+
+### О себе
+Делаю сквозные продукты: **сайт → калькулятор/конфигуратор → CRM → оплата → боты/парсеры**.  
+Коммерческие сайты ниже **до сих пор в проде**.
+
+В каждом репозитории README на **двух языках** (RU + EN): что это, стек, зачем каждая часть, поток.
+
+### Проекты
+
+| Проект | Live | Стек (кратко) | Для чего |
+|--------|------|----------------|----------|
+| [vsesteklo](https://github.com/Arctillect-RK/vsesteklo) | [сайт](https://vsesteklo.ru/) · [CRM](https://crm.vsesteklo.ru/) | HTML/JS + **Vue CRM** + Node | Стекло: сайт + прайс + калькулятор + заявки + парсер |
+| [directbeza](https://github.com/Arctillect-RK/directbeza) | [directbeza.ru](https://directbeza.ru/) | HTML/JS + **PHP/ЮKassa** + Node | Готовые РК Директ: каталог → оплата → доступ |
+| [arborika](https://github.com/Arctillect-RK/arborika) | [arborika.ru](https://arborika.ru/) | HTML/CSS/Tailwind/JS | Мастерская столов: каталог + заявки |
+| [bristol-test](https://github.com/Arctillect-RK/bristol-test) | [bristol-test.ru](https://bristol-test.ru/) | **PHP + ЮKassa** + TG | Платный портал тестов + токен доступа |
+| [magnit-test](https://github.com/Arctillect-RK/magnit-test) | [magnit-test.ru](https://www.magnit-test.ru/) | **PHP + ЮKassa** + TG | То же для Магнит Магнум |
+| [seo-combine](https://github.com/Arctillect-RK/seo-combine) | local | **Node + Puppeteer** | Подсказки + SERP Яндекса + Excel |
+| [promo-parser](https://github.com/Arctillect-RK/promo-parser) | local | **FastAPI + Playwright** | Промо SERP + контакты + Excel |
+
+### Флагман — Vsesteklo CRM
+Операционка стекольного бизнеса: прайс-контроль, инженерный калькулятор, заявки, парсер, модерация отзывов, роли.  
+Подробно: [vsesteklo/CRM.md](https://github.com/Arctillect-RK/vsesteklo/blob/main/CRM.md)
 
 ---
 
-## Проекты
+## 🇬🇧 English
 
-### 1. [Vsesteklo](https://github.com/Arctillect-RK/vsesteklo) — **флагман**
-| | |
-|--|--|
-| **Live** | [vsesteklo.ru](https://vsesteklo.ru/) · **[crm.vsesteklo.ru](https://crm.vsesteklo.ru/)** |
-| **Стек** | HTML/CSS/JS (сайт) · **Vue SPA (CRM)** · **Node** API · parser |
-| **Для чего** | Производство стекла: сайт + операционка (прайс, калькулятор, заявки, парсер, отзывы, роли) |
-| **Док** | [CRM.md](https://github.com/Arctillect-RK/vsesteklo/blob/main/CRM.md) |
+### About
+I ship end-to-end products: **website → calculator/configurator → CRM → payments → bots/scrapers**.  
+Commercial sites below are **still live in production**.
 
-### 2. [DirectBeza](https://github.com/Arctillect-RK/directbeza)
-| | |
-|--|--|
-| **Live** | [directbeza.ru](https://directbeza.ru/) |
-| **Стек** | HTML/JS витрина · **PHP + ЮKassa** (оплата/webhook) · **Node/Express** (локальный API) |
-| **Для чего** | Готовые РК Яндекс.Директ: каталог → оплата → выдача доступа |
+Each repository has a **bilingual README** (RU + EN): overview, stack table (what each layer is for), and flow.
 
-### 3. [Arborika](https://github.com/Arctillect-RK/arborika)
-| | |
-|--|--|
-| **Live** | [arborika.ru](https://arborika.ru/) |
-| **Стек** | HTML · CSS/Tailwind · JS · SEO |
-| **Для чего** | Мастерская столов: каталог, материалы, заявки |
+### Projects
 
-### 4. [Bristol-Test](https://github.com/Arctillect-RK/bristol-test)
-| | |
-|--|--|
-| **Live** | [bristol-test.ru](https://bristol-test.ru/) |
-| **Стек** | **PHP** · **ЮKassa** · Telegram · токены доступа |
-| **Для чего** | Платный портал ответов: оплата → сессия с поиском |
+| Project | Live | Stack (short) | Purpose |
+|---------|------|---------------|---------|
+| [vsesteklo](https://github.com/Arctillect-RK/vsesteklo) | [site](https://vsesteklo.ru/) · [CRM](https://crm.vsesteklo.ru/) | HTML/JS + **Vue CRM** + Node | Glass: site + prices + calculator + leads + parsers |
+| [directbeza](https://github.com/Arctillect-RK/directbeza) | [directbeza.ru](https://directbeza.ru/) | HTML/JS + **PHP/YooKassa** + Node | Ready Direct campaigns: catalog → pay → access |
+| [arborika](https://github.com/Arctillect-RK/arborika) | [arborika.ru](https://arborika.ru/) | HTML/CSS/Tailwind/JS | Custom tables workshop: catalog + leads |
+| [bristol-test](https://github.com/Arctillect-RK/bristol-test) | [bristol-test.ru](https://bristol-test.ru/) | **PHP + YooKassa** + TG | Paid test answers + timed access |
+| [magnit-test](https://github.com/Arctillect-RK/magnit-test) | [magnit-test.ru](https://www.magnit-test.ru/) | **PHP + YooKassa** + TG | Same pattern for Magnit Magnum |
+| [seo-combine](https://github.com/Arctillect-RK/seo-combine) | local | **Node + Puppeteer** | Yandex suggestions + SERP + Excel |
+| [promo-parser](https://github.com/Arctillect-RK/promo-parser) | local | **FastAPI + Playwright** | Promo SERP + contacts + Excel |
 
-### 5. [Magnit-Test](https://github.com/Arctillect-RK/magnit-test)
-| | |
-|--|--|
-| **Live** | [magnit-test.ru](https://www.magnit-test.ru/) |
-| **Стек** | **PHP** · **ЮKassa** (общий webhook с metadata) · Telegram |
-| **Для чего** | То же для тестов Магнит Магнум |
-
-### 6. [SEO Combine](https://github.com/Arctillect-RK/seo-combine)
-| | |
-|--|--|
-| **Тип** | локальный инструмент |
-| **Стек** | **Node.js** · **Puppeteer** (+ stealth) · HTML UI |
-| **Для чего** | Подсказки Яндекса + SERP + кластеры + Excel |
-
-### 7. [Promo Parser](https://github.com/Arctillect-RK/promo-parser)
-| | |
-|--|--|
-| **Тип** | локальный веб-инструмент |
-| **Стек** | **Python FastAPI** · **Playwright** · SQLite · openpyxl |
-| **Для чего** | Промо из SERP + контакты с сайтов + прокси/капча |
+### Flagship — Vsesteklo CRM
+Day-to-day ops for glass manufacturing: price control, engineering calculator, leads, parsers, review moderation, roles.  
+Details: [vsesteklo/CRM.md](https://github.com/Arctillect-RK/vsesteklo/blob/main/CRM.md)
 
 ---
 
-## Сводный стек
-
-| Слой | Где используется |
-|------|------------------|
-| **PHP** | DirectBeza оплата, Bristol, Magnit |
-| **Node.js** | Vsesteklo API/parser, DirectBeza local, SEO Combine |
-| **Python** | Promo Parser (FastAPI) |
-| **Vue** | Vsesteklo CRM SPA |
-| **HTML/CSS/JS** | все публичные сайты |
-| **ЮKassa + webhooks** | DirectBeza, Bristol, Magnit |
-| **Puppeteer / Playwright** | SEO Combine, Promo Parser |
-| **Telegram bots** | уведомления о заказах/лидах |
-
----
-
-## Contact
+## Contact / Контакты
 
 Telegram: [@Arctillect](https://t.me/Arctillect) · GitHub: [Arctillect-RK](https://github.com/Arctillect-RK)
