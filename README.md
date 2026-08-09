@@ -1,9 +1,28 @@
-# Portfolio — Ruslan Kovalchuk
+﻿# Portfolio — Ruslan Kovalchuk
 
 **Full-Stack Developer** · Business automation & B2B systems  
 Taiwan · Remote · [GitHub](https://github.com/Arctillect-RK) · [Telegram](https://t.me/Arctillect)
 
 I build end-to-end products: **website → calculator/configurator → CRM → payments → bots/scrapers**.
+
+Work email for clients: via Telegram / portfolio contacts.  
+(Registration-only mailbox is separate and not used for client work.)
+
+---
+
+## Source repositories
+
+| Project | Repo | Live |
+|---------|------|------|
+| Vsesteklo | [vsesteklo](https://github.com/Arctillect-RK/vsesteklo) | [vsesteklo.ru](https://vsesteklo.ru/) |
+| DirectBeza | [directbeza](https://github.com/Arctillect-RK/directbeza) | [directbeza.ru](https://directbeza.ru/) |
+| Arborika | [arborika](https://github.com/Arctillect-RK/arborika) | [arborika.ru](https://arborika.ru/) |
+| Bristol-Test | [bristol-test](https://github.com/Arctillect-RK/bristol-test) | [bristol-test.ru](https://bristol-test.ru/) |
+| Magnit-Test | [magnit-test](https://github.com/Arctillect-RK/magnit-test) | [magnit-test.ru](https://www.magnit-test.ru/) |
+| SEO Combine | [seo-combine](https://github.com/Arctillect-RK/seo-combine) | local tool |
+| Promo Parser | [promo-parser](https://github.com/Arctillect-RK/promo-parser) | local tool |
+| QuoteFlow | [quoteflow](https://github.com/Arctillect-RK/quoteflow) | demo |
+| AllFL | [allfl](https://github.com/Arctillect-RK/allfl) | prototype |
 
 ---
 
@@ -13,63 +32,20 @@ I build end-to-end products: **website → calculator/configurator → CRM → p
 |-------|------|
 | Backend | PHP, Node.js, Python (FastAPI) |
 | Frontend | HTML/CSS/JS, Vue 3, React, Nuxt |
-| Data | MySQL / PostgreSQL / SQLite, JSON |
+| Data | MySQL / PostgreSQL / SQLite |
 | Integrations | YooKassa, webhooks, Telegram Bot API |
 | Automation | Puppeteer, Playwright, SERP/promo parsers |
 
 ---
 
-## Live products
+## Notes
 
-### 1. [Vsesteklo](https://vsesteklo.ru/) — B2B glass / CRM
-Premium glass & mirror manufacturing site + **engineering quote configurator** + CRM/ERP flow (deals, commercial proposals, production specs).  
-**Stack:** HTML/JS frontend, CRM SPA, Node services, parsers, Telegram, payments.
-
-### 2. [DirectBeza](https://directbeza.ru/) — Ad campaigns SaaS
-Ready-made **Yandex Direct** campaign packages for **60+ niches**, catalog, lead forms, **YooKassa** checkout + access tokens, Telegram notifications.  
-**Stack:** HTML/JS, PHP, Node, YooKassa webhooks.
-
-### 3. [Arborika](https://arborika.ru/) — Workshop e-commerce
-Custom tables workshop: catalog, materials, lead capture / configurator pages.  
-**Stack:** HTML/JS, Tailwind-style UI, forms.
-
-### 4. SEO Combine 2.0
-Local tool: Yandex **search suggestions** + **SERP** collection, clustering, Excel export for Commander.  
-**Stack:** Node.js, Puppeteer (stealth).
-
-### 5. Promo Parser
-Web app: collect **Yandex promo ads** + site contacts, proxies, captcha hooks, cron, Excel export.  
-**Stack:** Python, FastAPI, Playwright.
-
-### 6. QuoteFlow — B2B pricing & quote engine
-Calc → Web commercial proposal → payment → order (demo sandbox).  
-**Stack:** FastAPI, Vue 3, Vite, SQLite/Postgres.
-
-### 7. Bristol-Test & Magnit digital products
-Paid knowledge portals: catalog/search, timed access, **YooKassa**, Telegram, shared webhook store.  
-- [bristol-test.ru](https://bristol-test.ru/)  
-- [magnit-test.ru](https://www.magnit-test.ru/)
-
-### 8. AllFL — freelance marketplace (prototype)
-Offer queues, commission model, Nuxt app.  
-**Stack:** Nuxt 4, Prisma, SQLite.
-
----
-
-## What I focus on
-
-- Complex **pricing calculators** and configurators  
-- **Payments** + webhooks + access delivery  
-- **CRM / sales funnel** automation  
-- **Scraping / SEO tooling** with anti-bot awareness  
-- Shipping **real domains** with analytics and production ops  
-
----
+- Production secrets (payment keys, DB passwords, bot tokens) are **scrubbed** from public repos.
+- Large media / 
+ode_modules / browser profiles are not included.
+- Code is portfolio / reference quality; deploy configs use placeholders.
 
 ## Contact
 
-- Telegram: [@Arctillect](https://t.me/Arctillect)  
-- Email: kislodrishezhuk@gmail.com  
-- GitHub: [Arctillect-RK](https://github.com/Arctillect-RK)  
-
-> Client source code may stay private (NDA). This repo documents **what shipped** and **public live URLs**.
+- Telegram: [@Arctillect](https://t.me/Arctillect)
+- GitHub: [Arctillect-RK](https://github.com/Arctillect-RK)
