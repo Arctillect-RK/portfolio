@@ -11,17 +11,19 @@ Taiwan · Remote · [GitHub](https://github.com/Arctillect-RK) · [Telegram](htt
 Делаю сквозные продукты: **сайт → калькулятор/конфигуратор → CRM → оплата → боты/парсеры**, а также
 железо и системный уровень (порт mainline Linux на телефон). Коммерческие сайты ниже **до сих пор в проде**.
 
-В каждом публичном репозитории README на **двух языках** (RU + EN): что это, стек, зачем каждая часть, поток.
+В каждом репозитории README на **двух языках** (RU + EN): что это, стек, зачем каждая часть, поток.
 
-### Публичные проекты (с кодом)
+### Проекты
+
+Коммерческие проекты — витрины: описание, стек и скриншоты (исходники в приватных репозиториях). ArctOS и webp-converter — с открытым кодом.
 
 | Проект | Live | Стек (кратко) | Для чего |
 |--------|------|----------------|----------|
-| [vsesteklo](https://github.com/Arctillect-RK/vsesteklo) | [сайт](https://vsesteklo.ru/) · [CRM](https://crm.vsesteklo.ru/) | HTML/JS + **Vue CRM** + Node | Стекло: сайт + прайс + калькулятор + заявки + парсер |
-| [directbeza](https://github.com/Arctillect-RK/directbeza) | [directbeza.ru](https://directbeza.ru/) | HTML/JS + **PHP/ЮKassa** + Node | Готовые РК Директ: каталог → оплата → доступ |
-| [arborika](https://github.com/Arctillect-RK/arborika) | [arborika.ru](https://arborika.ru/) | HTML/CSS/Tailwind/JS | Мастерская столов: каталог + конфигуратор + заявки |
-| [bristol-test](https://github.com/Arctillect-RK/bristol-test) | [bristol-test.ru](https://bristol-test.ru/) | **PHP + ЮKassa** + TG | Платный портал тестов + токен доступа |
-| [magnit-test](https://github.com/Arctillect-RK/magnit-test) | [magnit-test.ru](https://www.magnit-test.ru/) | **PHP + ЮKassa** + TG | То же для Магнит Магнум |
+| [vsesteklo](https://github.com/Arctillect-RK/vsesteklo-showcase) | [сайт](https://vsesteklo.ru/) · [CRM](https://crm.vsesteklo.ru/) | HTML/JS + **Vue CRM** + Node | Стекло: сайт + прайс + калькулятор + заявки + парсер |
+| [directbeza](https://github.com/Arctillect-RK/directbeza-showcase) | [directbeza.ru](https://directbeza.ru/) | HTML/JS + **PHP/ЮKassa** + Node | Готовые РК Директ: каталог → оплата → доступ |
+| [arborika](https://github.com/Arctillect-RK/arborika-showcase) | [arborika.ru](https://arborika.ru/) | HTML/CSS/JS · glass UI · View Transitions | Мастерская столов: каталог + калькулятор + заявки, редизайн и анимации без библиотек |
+| [bristol-test](https://github.com/Arctillect-RK/bristol-test-showcase) | [bristol-test.ru](https://bristol-test.ru/) | **PHP + ЮKassa** + TG | Платный портал тестов + токен доступа |
+| [magnit-test](https://github.com/Arctillect-RK/magnit-test-showcase) | [magnit-test.ru](https://www.magnit-test.ru/) | **PHP + ЮKassa** + TG | То же для Магнит Магнум |
 | [arctos-redmi-note-8t](https://github.com/Arctillect-RK/arctos-redmi-note-8t) | — | **mainline Linux / postmarketOS / Phosh** | ArctOS: порт Linux на Redmi Note 8T, дисплей/GPU/Wi-Fi/модем + UI в стиле iOS |
 | [webp-converter](https://github.com/Arctillect-RK/webp-converter) | — | Windows / Python | Пакетная конвертация PNG/JPEG/HEIC/AVIF/… → WebP |
 
@@ -39,7 +41,7 @@ Taiwan · Remote · [GitHub](https://github.com/Arctillect-RK) · [Telegram](htt
 
 ### Флагман — Vsesteklo CRM
 Операционка стекольного бизнеса: прайс-контроль, инженерный калькулятор, заявки, парсер, модерация отзывов, роли.
-Подробно: [vsesteklo/CRM.md](https://github.com/Arctillect-RK/vsesteklo/blob/main/CRM.md)
+Подробно: [vsesteklo/CRM.md](https://github.com/Arctillect-RK/vsesteklo-showcase/blob/main/CRM.md)
 
 ### Железо / система — ArctOS
 Порт **mainline Linux (postmarketOS, ядро 7.2, Phosh)** на Xiaomi Redmi Note 8T (willow, SM6125):
@@ -55,17 +57,19 @@ Taiwan · Remote · [GitHub](https://github.com/Arctillect-RK) · [Telegram](htt
 I ship end-to-end products: **website → calculator/configurator → CRM → payments → bots/scrapers**, and I also
 work at the hardware/system level (mainline Linux phone port). Commercial sites below are **still live in production**.
 
-Each public repository has a **bilingual README** (RU + EN): overview, stack table, and flow.
+Each repository has a **bilingual README** (RU + EN): overview, stack table, and flow.
 
-### Public projects (with source)
+### Projects
+
+Commercial projects are showcases: overview, stack and screenshots (source in private repositories). ArctOS and webp-converter are open source.
 
 | Project | Live | Stack (short) | Purpose |
 |---------|------|---------------|---------|
-| [vsesteklo](https://github.com/Arctillect-RK/vsesteklo) | [site](https://vsesteklo.ru/) · [CRM](https://crm.vsesteklo.ru/) | HTML/JS + **Vue CRM** + Node | Glass: site + prices + calculator + leads + parsers |
-| [directbeza](https://github.com/Arctillect-RK/directbeza) | [directbeza.ru](https://directbeza.ru/) | HTML/JS + **PHP/YooKassa** + Node | Ready Direct campaigns: catalog → pay → access |
-| [arborika](https://github.com/Arctillect-RK/arborika) | [arborika.ru](https://arborika.ru/) | HTML/CSS/Tailwind/JS | Custom tables workshop: catalog + configurator + leads |
-| [bristol-test](https://github.com/Arctillect-RK/bristol-test) | [bristol-test.ru](https://bristol-test.ru/) | **PHP + YooKassa** + TG | Paid test portal + timed access |
-| [magnit-test](https://github.com/Arctillect-RK/magnit-test) | [magnit-test.ru](https://www.magnit-test.ru/) | **PHP + YooKassa** + TG | Same pattern for Magnit Magnum |
+| [vsesteklo](https://github.com/Arctillect-RK/vsesteklo-showcase) | [site](https://vsesteklo.ru/) · [CRM](https://crm.vsesteklo.ru/) | HTML/JS + **Vue CRM** + Node | Glass: site + prices + calculator + leads + parsers |
+| [directbeza](https://github.com/Arctillect-RK/directbeza-showcase) | [directbeza.ru](https://directbeza.ru/) | HTML/JS + **PHP/YooKassa** + Node | Ready Direct campaigns: catalog → pay → access |
+| [arborika](https://github.com/Arctillect-RK/arborika-showcase) | [arborika.ru](https://arborika.ru/) | HTML/CSS/Tailwind/JS | Custom tables workshop: catalog + configurator + leads |
+| [bristol-test](https://github.com/Arctillect-RK/bristol-test-showcase) | [bristol-test.ru](https://bristol-test.ru/) | **PHP + YooKassa** + TG | Paid test portal + timed access |
+| [magnit-test](https://github.com/Arctillect-RK/magnit-test-showcase) | [magnit-test.ru](https://www.magnit-test.ru/) | **PHP + YooKassa** + TG | Same pattern for Magnit Magnum |
 | [arctos-redmi-note-8t](https://github.com/Arctillect-RK/arctos-redmi-note-8t) | — | **mainline Linux / postmarketOS / Phosh** | ArctOS: Linux port for Redmi Note 8T — display/GPU/Wi-Fi/modem + iOS-style UI |
 | [webp-converter](https://github.com/Arctillect-RK/webp-converter) | — | Windows / Python | Batch PNG/JPEG/HEIC/AVIF/… → WebP converter |
 
@@ -83,7 +87,7 @@ Commercial projects: I show the live product, source stays private.
 
 ### Flagship — Vsesteklo CRM
 Day-to-day ops for glass manufacturing: price control, engineering calculator, leads, parsers, review moderation, roles.
-Details: [vsesteklo/CRM.md](https://github.com/Arctillect-RK/vsesteklo/blob/main/CRM.md)
+Details: [vsesteklo/CRM.md](https://github.com/Arctillect-RK/vsesteklo-showcase/blob/main/CRM.md)
 
 ### Hardware / system — ArctOS
 A **mainline Linux (postmarketOS, kernel 7.2, Phosh)** port to the Xiaomi Redmi Note 8T (willow, SM6125):
